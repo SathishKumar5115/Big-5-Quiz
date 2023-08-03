@@ -1,3 +1,3 @@
 # quiz_app
 
-A new Flutter project
+A quizz app built using Flutter.
