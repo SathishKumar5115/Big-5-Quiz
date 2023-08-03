@@ -117,7 +117,7 @@ class _MyAppState extends State<MyApp> {
       });
       print(_questionIndex);
     }
-  }*/
+  } base*/
   void _start() {
     setState(() {
       _home = _home + 1;
