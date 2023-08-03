@@ -1,3 +1,3 @@
 # quiz_app
 
-A quizz app built using Flutter.
+A quiz app built using Flutter.
